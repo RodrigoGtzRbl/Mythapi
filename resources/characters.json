@@ -1,0 +1,1392 @@
+[
+    {
+        "id": 1,
+        "nombre": "Zeus",
+        "mitología": "Griega",
+        "descripcion": "Zeus es el dios del cielo y rey de los dioses olímpicos en la mitología griega. Es conocido por su poder sobre el trueno y el rayo.",
+        "poderes": [
+            "Control sobre el cielo",
+            "Rayo",
+            "Trueno"
+        ],
+        "relaciones": [
+            "Hera (esposa)",
+            "Poseidón (hermano)",
+            "Hades (hermano)"
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Atenea",
+        "mitología": "Griega",
+        "descripcion": "Atenea es la diosa de la sabiduría, la estrategia en la guerra y las artes en la mitología griega. Es conocida por su inteligencia y habilidades estratégicas.",
+        "poderes": [
+            "Sabiduría",
+            "Estrategia en la guerra",
+            "Protección de ciudades"
+        ],
+        "relaciones": [
+            "Zeus (padre)",
+            "Artemisa (hermana)"
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Apolo",
+        "mitología": "Griega",
+        "descripcion": "Apolo es el dios del sol, la música y la profecía en la mitología griega. Es conocido por su belleza y habilidades artísticas.",
+        "poderes": [
+            "Control sobre el sol",
+            "Música",
+            "Profecía"
+        ],
+        "relaciones": [
+            "Artemisa (hermana)",
+            "Zeus (padre)"
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Hércules",
+        "mitología": "Griega",
+        "descripcion": "Hércules es un héroe famoso por sus doce trabajos en la mitología griega. Es conocido por su fuerza sobrehumana y valentía.",
+        "poderes": [
+            "Fuerza sobrehumana",
+            "Resistencia"
+        ],
+        "relaciones": [
+            "Alcmene (madre)",
+            "Zeus (padre)"
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Perseo",
+        "mitología": "Griega",
+        "descripcion": "Perseo es un héroe conocido por matar a la Gorgona Medusa y por su valentía en diversas aventuras en la mitología griega.",
+        "poderes": [
+            "Invulnerabilidad",
+            "Vuelo (con sandalias aladas)"
+        ],
+        "relaciones": [
+            "Dánae (madre)",
+            "Zeus (padre)"
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Júpiter",
+        "mitología": "Romana",
+        "descripcion": "Júpiter es el dios del cielo y rey de los dioses romanos. Es conocido por su poder sobre el rayo y su autoridad en el panteón romano.",
+        "poderes": [
+            "Control sobre el cielo",
+            "Rayo",
+            "Trueno"
+        ],
+        "relaciones": [
+            "Juno (esposa)",
+            "Neptuno (hermano)",
+            "Plutón (hermano)"
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Marte",
+        "mitología": "Romana",
+        "descripcion": "Marte es el dios de la guerra en la mitología romana. Es conocido por su valentía y su papel como protector de los soldados.",
+        "poderes": [
+            "Guerra",
+            "Protección militar"
+        ],
+        "relaciones": [
+            "Venus (amante)",
+            "Romulo y Remo (hijos)"
+        ]
+    },
+    {
+        "id": 8,
+        "nombre": "Venus",
+        "mitología": "Romana",
+        "descripcion": "Venus es la diosa del amor y la belleza en la mitología romana. Es conocida por su influencia en el deseo y la atracción.",
+        "poderes": [
+            "Amor",
+            "Belleza"
+        ],
+        "relaciones": [
+            "Marte (amante)",
+            "Cupido (hijo)"
+        ]
+    },
+    {
+        "id": 9,
+        "nombre": "Ra",
+        "mitología": "Egipcia",
+        "descripcion": "Ra es el dios del sol en la mitología egipcia. Es considerado el creador del universo y es asociado con el ciclo diario del sol.",
+        "poderes": [
+            "Control sobre el sol",
+            "Creación"
+        ],
+        "relaciones": [
+            "Isis (aliada)",
+            "Osiris (padre de Horus)"
+        ]
+    },
+    {
+        "id": 10,
+        "nombre": "Osiris",
+        "mitología": "Egipcia",
+        "descripcion": "Osiris es el dios de la muerte y el inframundo en la mitología egipcia. Es conocido por su papel en el juicio de los muertos y la resurrección.",
+        "poderes": [
+            "Resurrección",
+            "Juicio de los muertos"
+        ],
+        "relaciones": [
+            "Isis (esposa)",
+            "Horus (hijo)"
+        ]
+    },
+    {
+        "id": 11,
+        "nombre": "Isis",
+        "mitología": "Egipcia",
+        "descripcion": "Isis es la diosa de la maternidad y la magia en la mitología egipcia. Es conocida por sus poderes mágicos y su papel como madre de Horus.",
+        "poderes": [
+            "Magia",
+            "Protección maternal"
+        ],
+        "relaciones": [
+            "Osiris (esposo)",
+            "Horus (hijo)"
+        ]
+    },
+    {
+        "id": 12,
+        "nombre": "Anubis",
+        "mitología": "Egipcia",
+        "descripcion": "Anubis es el dios de la momificación y guardián de los muertos en la mitología egipcia. Es conocido por su papel en el proceso de embalming y el juicio de las almas.",
+        "poderes": [
+            "Momificación",
+            "Guardián de los muertos"
+        ],
+        "relaciones": [
+            "Osiris (aliado)",
+            "Nephthys (hermana)"
+        ]
+    },
+    {
+        "id": 13,
+        "nombre": "Horus",
+        "mitología": "Egipcia",
+        "descripcion": "Horus es el dios del cielo y la realeza en la mitología egipcia. Es conocido por su lucha contra Seth y su papel como protector del faraón.",
+        "poderes": [
+            "Control sobre el cielo",
+            "Protección real"
+        ],
+        "relaciones": [
+            "Osiris (padre)",
+            "Isis (madre)"
+        ]
+    },
+    {
+        "id": 14,
+        "nombre": "Odín",
+        "mitología": "Nórdica",
+        "descripcion": "Odín es el dios principal del panteón nórdico, asociado con la sabiduría, la guerra y la muerte. Es conocido por su búsqueda de conocimiento y poder.",
+        "poderes": [
+            "Sabiduría",
+            "Magia rúnica",
+            "Guerra"
+        ],
+        "relaciones": [
+            "Frigg (esposa)",
+            "Thor (hijo)",
+            "Loki (aliado/rival)"
+        ]
+    },
+    {
+        "id": 15,
+        "nombre": "Thor",
+        "mitología": "Nórdica",
+        "descripcion": "Thor es el dios del trueno y protector de la humanidad en la mitología nórdica. Es conocido por su fuerza y su martillo, Mjölnir.",
+        "poderes": [
+            "Trueno",
+            "Fuerza",
+            "Control sobre tormentas"
+        ],
+        "relaciones": [
+            "Odín (padre)",
+            "Sif (esposa)"
+        ]
+    },
+    {
+        "id": 16,
+        "nombre": "Loki",
+        "mitología": "Nórdica",
+        "descripcion": "Loki es el dios embaucador en la mitología nórdica. Es conocido por sus travesuras y su habilidad para cambiar de forma.",
+        "poderes": [
+            "Cambio de forma",
+            "Embaucador",
+            "Manipulación"
+        ],
+        "relaciones": [
+            "Odín (aliado/rival)",
+            "Thor (rival)"
+        ]
+    },
+    {
+        "id": 17,
+        "nombre": "Freyja",
+        "mitología": "Nórdica",
+        "descripcion": "Freyja es la diosa del amor, la belleza y la guerra en la mitología nórdica. Es conocida por su belleza y sus habilidades en el campo de batalla.",
+        "poderes": [
+            "Amor",
+            "Belleza",
+            "Magia"
+        ],
+        "relaciones": [
+            "Odin (aliado)",
+            "Frey (hermano)"
+        ]
+    },
+    {
+        "id": 18,
+        "nombre": "Ragnarok",
+        "mitología": "Nórdica",
+        "descripcion": "Ragnarok es el fin del mundo en la mitología nórdica, una serie de eventos catastróficos que incluyen la batalla final entre los dioses y los gigantes.",
+        "poderes": [
+            "Destrucción",
+            "Catástrofe"
+        ],
+        "relaciones": [
+            "Odín (participante)",
+            "Thor (participante)"
+        ]
+    },
+    {
+        "id": 19,
+        "nombre": "Cernunnos",
+        "mitología": "Celta",
+        "descripcion": "Cernunnos es el dios de la fertilidad, la vida salvaje y la abundancia en la mitología celta. Es conocido por su aspecto con cuernos de ciervo.",
+        "poderes": [
+            "Fertilidad",
+            "Control sobre la vida salvaje"
+        ],
+        "relaciones": [
+            "Diana (compañera)",
+            "Brigid (aliada)"
+        ]
+    },
+    {
+        "id": 20,
+        "nombre": "Brigid",
+        "mitología": "Celta",
+        "descripcion": "Brigid es la diosa de la poesía, la curación y la fertilidad en la mitología celta. Es conocida por su capacidad para inspirar creatividad y curar enfermedades.",
+        "poderes": [
+            "Curación",
+            "Poesía",
+            "Fertilidad"
+        ],
+        "relaciones": [
+            "Cernunnos (aliado)",
+            "Dagda (esposo)"
+        ]
+    },
+    {
+        "id": 21,
+        "nombre": "Lugh",
+        "mitología": "Celta",
+        "descripcion": "Lugh es el dios del sol y las habilidades en la mitología celta. Es conocido por su destreza en múltiples artes y su asociación con la luz solar.",
+        "poderes": [
+            "Habilidad en múltiples artes",
+            "Sol"
+        ],
+        "relaciones": [
+            "Brigid (aliada)",
+            "Cernunnos (aliado)"
+        ]
+    },
+    {
+        "id": 22,
+        "nombre": "Morrigan",
+        "mitología": "Celta",
+        "descripcion": "Morrigan es la diosa de la guerra y la soberanía en la mitología celta. Es conocida por su capacidad para predecir la batalla y su forma de cuervo.",
+        "poderes": [
+            "Profecía de la batalla",
+            "Transformación en cuervo"
+        ],
+        "relaciones": [
+            "Dagda (esposo)",
+            "Lugh (aliado)"
+        ]
+    },
+    {
+        "id": 23,
+        "nombre": "Dagda",
+        "mitología": "Celta",
+        "descripcion": "Dagda es el dios de la fertilidad, el conocimiento y la abundancia en la mitología celta. Es conocido por su gran caldero y su habilidad para controlar la naturaleza.",
+        "poderes": [
+            "Control sobre la naturaleza",
+            "Fertilidad"
+        ],
+        "relaciones": [
+            "Brigid (esposa)",
+            "Morrigan (compañera)"
+        ]
+    },
+    {
+        "id": 24,
+        "nombre": "Vishnu",
+        "mitología": "Hindu",
+        "descripcion": "Vishnu es el dios de la preservación y protección del universo en la mitología hindú. Es conocido por sus avatares y su papel en el equilibrio del cosmos.",
+        "poderes": [
+            "Preservación del universo",
+            "Control sobre la creación"
+        ],
+        "relaciones": [
+            "Lakshmi (esposa)",
+            "Krishna (avatara)"
+        ]
+    },
+    {
+        "id": 25,
+        "nombre": "Shiva",
+        "mitología": "Hindu",
+        "descripcion": "Shiva es el dios de la destrucción y la regeneración en la mitología hindú. Es conocido por su poder transformador y su papel en el ciclo de la vida.",
+        "poderes": [
+            "Destrucción",
+            "Regeneración",
+            "Meditación"
+        ],
+        "relaciones": [
+            "Parvati (esposa)",
+            "Ganesha (hijo)"
+        ]
+    },
+    {
+        "id": 26,
+        "nombre": "Devi",
+        "mitología": "Hindu",
+        "descripcion": "Devi es la diosa madre y figura principal del feminismo divino en la mitología hindú. Es conocida por sus múltiples formas y aspectos.",
+        "poderes": [
+            "Protección",
+            "Creación",
+            "Destrucción"
+        ],
+        "relaciones": [
+            "Shiva (esposo)",
+            "Durga (forma)"
+        ]
+    },
+    {
+        "id": 27,
+        "nombre": "Ganesha",
+        "mitología": "Hindu",
+        "descripcion": "Ganesha es el dios de la sabiduría, la prosperidad y los nuevos comienzos en la mitología hindú. Es conocido por su cabeza de elefante y su rol como removedor de obstáculos.",
+        "poderes": [
+            "Sabiduría",
+            "Eliminación de obstáculos",
+            "Prosperidad"
+        ],
+        "relaciones": [
+            "Shiva (padre)",
+            "Parvati (madre)"
+        ]
+    },
+    {
+        "id": 28,
+        "nombre": "Krishna",
+        "mitología": "Hindu",
+        "descripcion": "Krishna es una de las principales deidades en el hinduismo, conocido por sus enseñanzas en el Bhagavad Gita y su papel en la épica del Mahabharata.",
+        "poderes": [
+            "Control sobre la naturaleza",
+            "Destrucción del mal",
+            "Enseñanza espiritual"
+        ],
+        "relaciones": [
+            "Radha (amante)",
+            "Arjuna (amigo)"
+        ]
+    },
+    {
+        "id": 29,
+        "nombre": "Buda",
+        "mitología": "Budista",
+        "descripcion": "Buda, conocido como Siddhartha Gautama, es el fundador del budismo. Es venerado por su iluminación y enseñanzas sobre el sufrimiento y el camino hacia la liberación.",
+        "poderes": [
+            "Iluminación",
+            "Sabiduría espiritual",
+            "Capacidad de enseñanza"
+        ],
+        "relaciones": [
+            "Ananda (discípulo)",
+            "Sangha (comunidad)"
+        ]
+    },
+    {
+        "id": 30,
+        "nombre": "Avalokiteshvara",
+        "mitología": "Budista",
+        "descripcion": "Avalokiteshvara es el bodhisattva de la compasión en el budismo. Es conocido por su capacidad para escuchar las súplicas de los seres sufrientes y ofrecer ayuda.",
+        "poderes": [
+            "Compasión",
+            "Protección",
+            "Curación"
+        ],
+        "relaciones": [
+            "Chenrezig (nombre tibetano)",
+            "Kuan Yin (aspecto femenino)"
+        ]
+    },
+    {
+        "id": 31,
+        "nombre": "Manjushri",
+        "mitología": "Budista",
+        "descripcion": "Manjushri es el bodhisattva de la sabiduría en el budismo. Es conocido por su habilidad para cortar la ignorancia y ofrecer claridad intelectual.",
+        "poderes": [
+            "Sabiduría",
+            "Claridad",
+            "Capacidad de enseñar"
+        ],
+        "relaciones": [
+            "Avalokiteshvara (aliado)",
+            "Vajrapani (aliado)"
+        ]
+    },
+    {
+        "id": 32,
+        "nombre": "Tara",
+        "mitología": "Budista",
+        "descripcion": "Tara es una diosa de la compasión y la protección en el budismo. Es conocida por su capacidad para ayudar a los seres en peligro y ofrecer guía.",
+        "poderes": [
+            "Protección",
+            "Compasión",
+            "Ayuda en momentos de crisis"
+        ],
+        "relaciones": [
+            "Avalokiteshvara (aliada)",
+            "Manjushri (aliado)"
+        ]
+    },
+    {
+        "id": 33,
+        "nombre": "Maitreya",
+        "mitología": "Budista",
+        "descripcion": "Maitreya es el Buda del futuro en el budismo. Es conocido por su promesa de venir a la Tierra para enseñar el dharma en una era futura.",
+        "poderes": [
+            "Profecía",
+            "Promesa de la enseñanza futura"
+        ],
+        "relaciones": [
+            "Buda histórico (anterior)",
+            "Avalokiteshvara (aliado)"
+        ]
+    },
+    {
+        "id": 34,
+        "nombre": "Jade Emperador",
+        "mitología": "China",
+        "descripcion": "El Jade Emperador es el gobernante supremo del panteón taoísta en la mitología china. Es conocido por su autoridad y justicia.",
+        "poderes": [
+            "Gobernar el cielo",
+            "Justicia",
+            "Control sobre el cosmos"
+        ],
+        "relaciones": [
+            "Guanyin (aliada)",
+            "Dragones celestiales (guardianes)"
+        ]
+    },
+    {
+        "id": 35,
+        "nombre": "Nüwa",
+        "mitología": "China",
+        "descripcion": "Nüwa es la diosa creadora en la mitología china, conocida por crear a los seres humanos y reparar el cielo.",
+        "poderes": [
+            "Creación",
+            "Reparación del cielo"
+        ],
+        "relaciones": [
+            "Fuxi (esposo)",
+            "Dragones (aliados)"
+        ]
+    },
+    {
+        "id": 36,
+        "nombre": "Fuxi",
+        "mitología": "China",
+        "descripcion": "Fuxi es un dios primordial en la mitología china, conocido por ser uno de los primeros soberanos y por enseñar a la humanidad sobre la civilización.",
+        "poderes": [
+            "Enseñanza de la civilización",
+            "Creación"
+        ],
+        "relaciones": [
+            "Nüwa (esposa)",
+            "Dragones (guardianes)"
+        ]
+    },
+    {
+        "id": 37,
+        "nombre": "Inari",
+        "mitología": "Japonesa",
+        "descripcion": "Inari es el dios de la agricultura, el arroz y la prosperidad en la mitología japonesa. Es conocido por su asociación con los zorros.",
+        "poderes": [
+            "Fertilidad agrícola",
+            "Prosperidad"
+        ],
+        "relaciones": [
+            "Zorros (mensajeros)",
+            "Omoikane (aliado)"
+        ]
+    },
+    {
+        "id": 38,
+        "nombre": "Tsukuyomi",
+        "mitología": "Japonesa",
+        "descripcion": "Tsukuyomi es el dios de la luna en la mitología japonesa. Es conocido por su relación con el ciclo lunar y la noche.",
+        "poderes": [
+            "Control sobre la luna",
+            "Noche"
+        ],
+        "relaciones": [
+            "Amaterasu (hermana)",
+            "Susanoo (hermano)"
+        ]
+    },
+    {
+        "id": 39,
+        "nombre": "Susanoo",
+        "mitología": "Japonesa",
+        "descripcion": "Susanoo es el dios de las tormentas y el mar en la mitología japonesa. Es conocido por su carácter tempestuoso y sus aventuras.",
+        "poderes": [
+            "Control sobre tormentas",
+            "Mar"
+        ],
+        "relaciones": [
+            "Amaterasu (hermana)",
+            "Tsukuyomi (hermano)"
+        ]
+    },
+    {
+        "id": 40,
+        "nombre": "Tengu",
+        "mitología": "Japonesa",
+        "descripcion": "El Tengu es un ser mitológico japonés que combina características de pájaros y humanos. Es conocido por su habilidad en las artes marciales y su capacidad para volar.",
+        "poderes": [
+            "Vuelo",
+            "Habilidades marciales"
+        ],
+        "relaciones": [
+            "Kappa (rival)",
+            "Kannon (aliado)"
+        ]
+    },
+    {
+        "id": 41,
+        "nombre": "Kappa",
+        "mitología": "Japonesa",
+        "descripcion": "El Kappa es un ser mitológico acuático japonés conocido por su apariencia de tortuga y su tendencia a arrastrar a las personas al agua.",
+        "poderes": [
+            "Manipulación del agua",
+            "Fuerza en el agua"
+        ],
+        "relaciones": [
+            "Tengu (rival)",
+            "Inari (aliado)"
+        ]
+    },
+    {
+        "id": 42,
+        "nombre": "Quetzalcóatl",
+        "mitología": "Azteca",
+        "descripcion": "Quetzalcóatl es la deidad serpiente emplumada en la mitología azteca, asociada con la sabiduría, la vida y el viento.",
+        "poderes": [
+            "Sabiduría",
+            "Control sobre el viento",
+            "Protección"
+        ],
+        "relaciones": [
+            "Tezcatlipoca (rival)",
+            "Tlaloc (aliado)"
+        ]
+    },
+    {
+        "id": 43,
+        "nombre": "Huitzilopochtli",
+        "mitología": "Azteca",
+        "descripcion": "Huitzilopochtli es el dios del sol y la guerra en la mitología azteca. Es conocido por su papel en las batallas y en la protección de la ciudad de Tenochtitlán.",
+        "poderes": [
+            "Control sobre el sol",
+            "Guerra",
+            "Protección"
+        ],
+        "relaciones": [
+            "Coatlicue (madre)",
+            "Xipe Tótec (hermano)"
+        ]
+    },
+    {
+        "id": 44,
+        "nombre": "Mictlantecuhtli",
+        "mitología": "Azteca",
+        "descripcion": "Mictlantecuhtli es el dios del inframundo en la mitología azteca. Es conocido por gobernar el lugar de los muertos y el destino de las almas.",
+        "poderes": [
+            "Gobierno del inframundo",
+            "Control sobre las almas",
+            "Oscuridad"
+        ],
+        "relaciones": [
+            "Mictecacihuatl (esposa)",
+            "Huitzilopochtli (rival)"
+        ]
+    },
+    {
+        "id": 45,
+        "nombre": "Yemayá",
+        "mitología": "Yoruba",
+        "descripcion": "Yemayá es la diosa del mar en la mitología yoruba, conocida por su papel como madre de todos los dioses y protectora de la maternidad.",
+        "poderes": [
+            "Control sobre el mar",
+            "Protección maternal",
+            "Fertilidad"
+        ],
+        "relaciones": [
+            "Shango (esposo)",
+            "Olokun (rival)"
+        ]
+    },
+    {
+        "id": 46,
+        "nombre": "Shango",
+        "mitología": "Yoruba",
+        "descripcion": "Shango es el dios del trueno y la justicia en la mitología yoruba. Es conocido por su dominio sobre el fuego y su papel como rey.",
+        "poderes": [
+            "Control sobre el trueno",
+            "Justicia",
+            "Fuego"
+        ],
+        "relaciones": [
+            "Yemayá (esposa)",
+            "Obatala (hermano)"
+        ]
+    },
+    {
+        "id": 47,
+        "nombre": "Obatala",
+        "mitología": "Yoruba",
+        "descripcion": "Obatala es el dios de la sabiduría y la justicia en la mitología yoruba. Es conocido por su papel como padre de los dioses y protector de la humanidad.",
+        "poderes": [
+            "Sabiduría",
+            "Justicia",
+            "Protección"
+        ],
+        "relaciones": [
+            "Shango (hermano)",
+            "Yemayá (aliada)"
+        ]
+    },
+    {
+        "id": 48,
+        "nombre": "Ix Chel",
+        "mitología": "Maya",
+        "descripcion": "Ix Chel es la diosa de la luna, la fertilidad y el parto en la mitología maya. Es conocida por su poder sobre la luna y la curación.",
+        "poderes": [
+            "Control sobre la luna",
+            "Fertilidad",
+            "Curación"
+        ],
+        "relaciones": [
+            "Itzamná (esposo)",
+            "Kukulkán (rival)"
+        ]
+    },
+    {
+        "id": 49,
+        "nombre": "Itzamná",
+        "mitología": "Maya",
+        "descripcion": "Itzamná es el dios creador y del cielo en la mitología maya. Es conocido por su influencia en la creación del mundo y el cielo.",
+        "poderes": [
+            "Creación",
+            "Gobierno del cielo",
+            "Sabiduría"
+        ],
+        "relaciones": [
+            "Ix Chel (esposa)",
+            "Chaac (aliado)"
+        ]
+    },
+    {
+        "id": 50,
+        "nombre": "Chaac",
+        "mitología": "Maya",
+        "descripcion": "Chaac es el dios de la lluvia y el trueno en la mitología maya. Es conocido por su capacidad para controlar las lluvias y las tormentas.",
+        "poderes": [
+            "Control sobre la lluvia",
+            "Trueno",
+            "Tierra fértil"
+        ],
+        "relaciones": [
+            "Itzamná (aliado)",
+            "Kukulkán (rival)"
+        ]
+    },
+    {
+        "id": 51,
+        "nombre": "Kukulkán",
+        "mitología": "Maya",
+        "descripcion": "Kukulkán es la deidad serpiente emplumada en la mitología maya, asociada con el viento y la lluvia.",
+        "poderes": [
+            "Control sobre el viento",
+            "Manipulación del clima",
+            "Protección"
+        ],
+        "relaciones": [
+            "Chaac (rival)",
+            "Ix Chel (aliada)"
+        ]
+    },
+    {
+        "id": 52,
+        "nombre": "Cú Chulainn",
+        "mitología": "Irlandesa",
+        "descripcion": "Cú Chulainn es un héroe legendario en la mitología irlandesa, conocido por sus proezas en combate y su valentía.",
+        "poderes": [
+            "Fuerza sobrehumana",
+            "Habilidad en combate",
+            "Destreza en la lucha"
+        ],
+        "relaciones": [
+            "Medb (rival)",
+            "Conochbar (aliado)"
+        ]
+    },
+    {
+        "id": 53,
+        "nombre": "Bran el Bendito",
+        "mitología": "Galesa",
+        "descripcion": "Bran el Bendito es un gigante y rey en la mitología galesa, conocido por su tamaño y su papel como protector de su pueblo.",
+        "poderes": [
+            "Tamaño gigante",
+            "Protección",
+            "Sabiduría"
+        ],
+        "relaciones": [
+            "Bendigeidfran (hermano)",
+            "Rhiannon (aliada)"
+        ]
+    },
+    {
+        "id": 54,
+        "nombre": "Pachamama",
+        "mitología": "Andina",
+        "descripcion": "Pachamama es la diosa de la tierra y la fertilidad en la mitología andina. Es conocida por su papel en la agricultura y la vida comunitaria.",
+        "poderes": [
+            "Fertilidad",
+            "Protección de la tierra",
+            "Agricultura"
+        ],
+        "relaciones": [
+            "Inti (esposo)",
+            "Viracocha (aliado)"
+        ]
+    },
+    {
+        "id": 55,
+        "nombre": "Inti",
+        "mitología": "Andina",
+        "descripcion": "Inti es el dios del sol en la mitología andina, venerado como el creador de la vida y el protector de la agricultura.",
+        "poderes": [
+            "Control sobre el sol",
+            "Fertilidad agrícola",
+            "Protección"
+        ],
+        "relaciones": [
+            "Pachamama (esposa)",
+            "Viracocha (aliado)"
+        ]
+    },
+    {
+        "id": 56,
+        "nombre": "Viracocha",
+        "mitología": "Andina",
+        "descripcion": "Viracocha es el dios creador en la mitología andina, conocido por haber creado el mundo y todos los seres vivos.",
+        "poderes": [
+            "Creación",
+            "Control sobre el cosmos",
+            "Sabiduría"
+        ],
+        "relaciones": [
+            "Inti (aliado)",
+            "Pachamama (aliada)"
+        ]
+    },
+    {
+        "id": 57,
+        "nombre": "Amaterasu",
+        "mitología": "Japonesa",
+        "descripcion": "Amaterasu es la diosa del sol en la mitología japonesa. Es considerada una de las deidades principales del sintoísmo y es conocida por su poder luminoso.",
+        "poderes": [
+            "Control sobre el sol",
+            "Luz"
+        ],
+        "relaciones": [
+            "Susanoo (hermano)",
+            "Tsukuyomi (hermano)"
+        ]
+    },
+    {
+        "id": 58,
+        "nombre": "Tsukuyomi",
+        "mitología": "Japonesa",
+        "descripcion": "Tsukuyomi es el dios de la luna en la mitología japonesa. Es conocido por su relación con el ciclo lunar y la noche.",
+        "poderes": [
+            "Control sobre la luna",
+            "Noche"
+        ],
+        "relaciones": [
+            "Amaterasu (hermana)",
+            "Susanoo (hermano)"
+        ]
+    },
+    {
+        "id": 59,
+        "nombre": "Susanoo",
+        "mitología": "Japonesa",
+        "descripcion": "Susanoo es el dios de las tormentas y el mar en la mitología japonesa. Es conocido por su carácter tempestuoso y sus aventuras.",
+        "poderes": [
+            "Control sobre tormentas",
+            "Mar"
+        ],
+        "relaciones": [
+            "Amaterasu (hermana)",
+            "Tsukuyomi (hermano)"
+        ]
+    },
+    {
+        "id": 60,
+        "nombre": "Tengu",
+        "mitología": "Japonesa",
+        "descripcion": "El Tengu es un ser mitológico japonés que combina características de pájaros y humanos. Es conocido por su habilidad en las artes marciales y su capacidad para volar.",
+        "poderes": [
+            "Vuelo",
+            "Habilidades marciales"
+        ],
+        "relaciones": [
+            "Kappa (rival)",
+            "Kannon (aliado)"
+        ]
+    },
+    {
+        "id": 61,
+        "nombre": "Kappa",
+        "mitología": "Japonesa",
+        "descripcion": "El Kappa es un ser mitológico acuático japonés conocido por su apariencia de tortuga y su tendencia a arrastrar a las personas al agua.",
+        "poderes": [
+            "Manipulación del agua",
+            "Fuerza en el agua"
+        ],
+        "relaciones": [
+            "Tengu (rival)",
+            "Inari (aliado)"
+        ]
+    },
+    {
+        "id": 62,
+        "nombre": "Kwan Yin",
+        "mitología": "Budista",
+        "descripcion": "Kwan Yin es la bodhisattva de la compasión en la tradición china del budismo. Es conocida por su habilidad para ofrecer ayuda y consuelo a los seres sufrientes.",
+        "poderes": [
+            "Compasión",
+            "Curación",
+            "Protección"
+        ],
+        "relaciones": [
+            "Avalokiteshvara (aspecto masculino)",
+            "Tara (aliada)"
+        ]
+    },
+    {
+        "id": 63,
+        "nombre": "Vajrapani",
+        "mitología": "Budista",
+        "descripcion": "Vajrapani es el bodhisattva de la protección en el budismo. Es conocido por su habilidad para proteger a los budistas y su representación con un mazo de diamante.",
+        "poderes": [
+            "Protección",
+            "Fuerza",
+            "Defensa"
+        ],
+        "relaciones": [
+            "Manjushri (aliado)",
+            "Avalokiteshvara (aliado)"
+        ]
+    },
+    {
+        "id": 64,
+        "nombre": "Durga",
+        "mitología": "Hindu",
+        "descripcion": "Durga es una diosa guerrera en la mitología hindú, conocida por su capacidad para derrotar demonios y proteger el dharma.",
+        "poderes": [
+            "Guerrera",
+            "Protección",
+            "Destrucción del mal"
+        ],
+        "relaciones": [
+            "Shiva (esposo)",
+            "Kali (aspecto)"
+        ]
+    },
+    {
+        "id": 65,
+        "nombre": "Kali",
+        "mitología": "Hindu",
+        "descripcion": "Kali es una diosa de la destrucción y la transformación en la mitología hindú. Es conocida por su aspecto feroz y su capacidad para eliminar la negatividad.",
+        "poderes": [
+            "Destrucción",
+            "Transformación",
+            "Protección"
+        ],
+        "relaciones": [
+            "Durga (aspecto)",
+            "Shiva (esposo)"
+        ]
+    },
+    {
+        "id": 66,
+        "nombre": "Diana",
+        "mitología": "Romana",
+        "descripcion": "Diana es la diosa de la caza y la naturaleza en la mitología romana. Es conocida por su habilidad con el arco y su conexión con la vida salvaje.",
+        "poderes": [
+            "Habilidad en la caza",
+            "Protección de la naturaleza",
+            "Arco y flechas"
+        ],
+        "relaciones": [
+            "Apolo (hermano)",
+            "Pan (aliado)"
+        ]
+    },
+    {
+        "id": 67,
+        "nombre": "Pan",
+        "mitología": "Griega",
+        "descripcion": "Pan es el dios de los pastores, los rebaños y la naturaleza en la mitología griega. Es conocido por su aspecto de sátiro y su conexión con la música y la naturaleza.",
+        "poderes": [
+            "Música",
+            "Control sobre animales",
+            "Naturaleza"
+        ],
+        "relaciones": [
+            "Diana (aliada)",
+            "Syrinx (amor)"
+        ]
+    },
+    {
+        "id": 68,
+        "nombre": "Anubis",
+        "mitología": "Egipcia",
+        "descripcion": "Anubis es el dios de los muertos y la embalsamación en la mitología egipcia. Es conocido por su apariencia de chacal y su papel en el juicio de las almas.",
+        "poderes": [
+            "Guía de almas",
+            "Embalsamación",
+            "Protección de tumbas"
+        ],
+        "relaciones": [
+            "Osiris (padre)",
+            "Horus (aliado)"
+        ]
+    },
+    {
+        "id": 69,
+        "nombre": "Horus",
+        "mitología": "Egipcia",
+        "descripcion": "Horus es el dios del cielo y la protección en la mitología egipcia, representado con cabeza de halcón. Es conocido por su lucha contra Seth.",
+        "poderes": [
+            "Control sobre el cielo",
+            "Protección",
+            "Visión aguda"
+        ],
+        "relaciones": [
+            "Osiris (padre)",
+            "Isis (madre)"
+        ]
+    },
+    {
+        "id": 70,
+        "nombre": "Isis",
+        "mitología": "Egipcia",
+        "descripcion": "Isis es la diosa de la magia y la maternidad en la mitología egipcia. Es conocida por su habilidad para curar y proteger a su familia.",
+        "poderes": [
+            "Magia",
+            "Curación",
+            "Protección"
+        ],
+        "relaciones": [
+            "Osiris (esposo)",
+            "Horus (hijo)"
+        ]
+    },
+    {
+        "id": 71,
+        "nombre": "Arawn",
+        "mitología": "Galesa",
+        "descripcion": "Arawn es el dios del inframundo en la mitología galesa, conocido por su reino de Annwn y su papel en las historias de la muerte y el más allá.",
+        "poderes": [
+            "Gobierno del inframundo",
+            "Control sobre espíritus",
+            "Oscuridad"
+        ],
+        "relaciones": [
+            "Pwyll (aliado)",
+            "Rhiannon (rival)"
+        ]
+    },
+    {
+        "id": 72,
+        "nombre": "Hades",
+        "mitología": "Griega",
+        "descripcion": "Hades es el dios del inframundo en la mitología griega, conocido por gobernar el reino de los muertos y supervisar el destino de las almas.",
+        "poderes": [
+            "Gobierno del inframundo",
+            "Control sobre los muertos",
+            "Riquezas subterráneas"
+        ],
+        "relaciones": [
+            "Perséfone (esposa)",
+            "Zeus (hermano)",
+            "Poseidón (hermano)"
+        ]
+    },
+    {
+        "id": 73,
+        "nombre": "Persefone",
+        "mitología": "Griega",
+        "descripcion": "Persefone es la diosa de la primavera y reina del inframundo en la mitología griega. Es conocida por su dualidad entre la vida y la muerte.",
+        "poderes": [
+            "Control sobre la primavera",
+            "Gobierno del inframundo",
+            "Renovación"
+        ],
+        "relaciones": [
+            "Hades (esposo)",
+            "Deméter (madre)",
+            "Zeus (padre)"
+        ]
+    },
+    {
+        "id": 74,
+        "nombre": "Náyade",
+        "mitología": "Griega",
+        "descripcion": "Las Náyades son ninfas de las fuentes, ríos y arroyos en la mitología griega, conocidas por su conexión con el agua y la naturaleza.",
+        "poderes": [
+            "Control sobre el agua",
+            "Protección de fuentes y ríos",
+            "Belleza"
+        ],
+        "relaciones": [
+            "Poseidón (aliado)",
+            "Oceanos (ancestro)"
+        ]
+    },
+    {
+        "id": 75,
+        "nombre": "Kitsune",
+        "mitología": "Japonesa",
+        "descripcion": "El Kitsune es un zorro con habilidades mágicas en la mitología japonesa, conocido por su capacidad de transformarse en una mujer hermosa y su inteligencia.",
+        "poderes": [
+            "Transformación",
+            "Magia",
+            "Inmortalidad"
+        ],
+        "relaciones": [
+            "Inari (aliado)",
+            "Tengu (rival)"
+        ]
+    },
+    {
+        "id": 76,
+        "nombre": "Amatsu-Mikaboshi",
+        "mitología": "Japonesa",
+        "descripcion": "Amatsu-Mikaboshi es el dios de la oscuridad y el caos en la mitología japonesa, conocido por su influencia en el mal y la desorden.",
+        "poderes": [
+            "Control sobre la oscuridad",
+            "Caos",
+            "Manipulación del mal"
+        ],
+        "relaciones": [
+            "Izanagi (rival)",
+            "Izanami (rival)"
+        ]
+    },
+    {
+        "id": 77,
+        "nombre": "Rhiannon",
+        "mitología": "Galesa",
+        "descripcion": "Rhiannon es la diosa de la equitación y la fertilidad en la mitología galesa, conocida por su belleza y su vínculo con los caballos.",
+        "poderes": [
+            "Control sobre los caballos",
+            "Fertilidad",
+            "Belleza"
+        ],
+        "relaciones": [
+            "Pwyll (esposo)",
+            "Arawn (rival)"
+        ]
+    },
+    {
+        "id": 78,
+        "nombre": "Lugh",
+        "mitología": "Celta",
+        "descripcion": "Lugh es el dios de la luz, el arte y la habilidad en la mitología celta. Es conocido por sus muchas habilidades y su papel como líder en la batalla.",
+        "poderes": [
+            "Luz",
+            "Habilidad en múltiples artes",
+            "Guerrero"
+        ],
+        "relaciones": [
+            "Dagda (padre)",
+            "Brigid (aliada)"
+        ]
+    },
+    {
+        "id": 79,
+        "nombre": "Brigid",
+        "mitología": "Celta",
+        "descripcion": "Brigid es la diosa del fuego, la poesía y la curación en la mitología celta. Es conocida por su asociación con la inspiración y la protección.",
+        "poderes": [
+            "Control sobre el fuego",
+            "Inspiración",
+            "Curación"
+        ],
+        "relaciones": [
+            "Lugh (aliado)",
+            "Dagda (aliado)"
+        ]
+    },
+    {
+        "id": 80,
+        "nombre": "Cernunnos",
+        "mitología": "Celta",
+        "descripcion": "Cernunnos es el dios de la fertilidad, los animales y la naturaleza en la mitología celta. Es conocido por su aspecto con cuernos de ciervo y su conexión con la vida salvaje.",
+        "poderes": [
+            "Fertilidad",
+            "Control sobre animales",
+            "Naturaleza"
+        ],
+        "relaciones": [
+            "Brigid (aliada)",
+            "Lugh (aliado)"
+        ]
+    },
+    {
+        "id": 81,
+        "nombre": "Odin",
+        "mitología": "Nórdica",
+        "descripcion": "Odin es el dios principal en la mitología nórdica, conocido por su sabiduría, su búsqueda de conocimiento y su liderazgo entre los dioses de Asgard.",
+        "poderes": [
+            "Sabiduría",
+            "Poesía",
+            "Magia"
+        ],
+        "relaciones": [
+            "Thor (hijo)",
+            "Frigg (esposa)",
+            "Loki (rival)"
+        ]
+    },
+    {
+        "id": 82,
+        "nombre": "Thor",
+        "mitología": "Nórdica",
+        "descripcion": "Thor es el dios del trueno y la protección en la mitología nórdica. Es conocido por su martillo Mjölnir, que usa para proteger a los dioses y a la humanidad.",
+        "poderes": [
+            "Control sobre el trueno",
+            "Fuerza sobrehumana",
+            "Protección"
+        ],
+        "relaciones": [
+            "Odin (padre)",
+            "Loki (rival)",
+            "Sif (esposa)"
+        ]
+    },
+    {
+        "id": 83,
+        "nombre": "Freya",
+        "mitología": "Nórdica",
+        "descripcion": "Freya es la diosa del amor, la belleza y la fertilidad en la mitología nórdica. Es conocida por su capacidad para influir en el amor y la belleza.",
+        "poderes": [
+            "Amor",
+            "Belleza",
+            "Fertilidad"
+        ],
+        "relaciones": [
+            "Odin (aliado)",
+            "Thor (aliado)",
+            "Njord (padre)"
+        ]
+    },
+    {
+        "id": 84,
+        "nombre": "Njord",
+        "mitología": "Nórdica",
+        "descripcion": "Njord es el dios del mar y el viento en la mitología nórdica. Es conocido por su habilidad para controlar el clima marítimo y su relación con los dioses Vanir.",
+        "poderes": [
+            "Control sobre el mar",
+            "Control sobre el viento",
+            "Fertilidad"
+        ],
+        "relaciones": [
+            "Freya (hija)",
+            "Skadi (esposa)"
+        ]
+    },
+    {
+        "id": 85,
+        "nombre": "Skadi",
+        "mitología": "Nórdica",
+        "descripcion": "Skadi es la diosa de la caza y el invierno en la mitología nórdica. Es conocida por su habilidad en la caza y su vínculo con las montañas.",
+        "poderes": [
+            "Caza",
+            "Control sobre el invierno",
+            "Supervivencia en la montaña"
+        ],
+        "relaciones": [
+            "Njord (esposo)",
+            "Odin (aliado)"
+        ]
+    },
+    {
+        "id": 86,
+        "nombre": "Cú Chulainn",
+        "mitología": "Irlandesa",
+        "descripcion": "Cú Chulainn es un héroe legendario en la mitología irlandesa, conocido por sus proezas en combate y su valentía.",
+        "poderes": [
+            "Fuerza sobrehumana",
+            "Habilidad en combate",
+            "Destreza en la lucha"
+        ],
+        "relaciones": [
+            "Medb (rival)",
+            "Conochbar (aliado)"
+        ]
+    },
+    {
+        "id": 87,
+        "nombre": "Medb",
+        "mitología": "Irlandesa",
+        "descripcion": "Medb es la reina de Connacht en la mitología irlandesa, conocida por su ambición y sus conflictos con otros héroes.",
+        "poderes": [
+            "Realeza",
+            "Ambición",
+            "Estrategia"
+        ],
+        "relaciones": [
+            "Cú Chulainn (rival)",
+            "Ailill (esposo)"
+        ]
+    },
+    {
+        "id": 88,
+        "nombre": "Ailill",
+        "mitología": "Irlandesa",
+        "descripcion": "Ailill es el esposo de Medb en la mitología irlandesa, conocido por su papel en las intrigas y conflictos de Connacht.",
+        "poderes": [
+            "Realeza",
+            "Política",
+            "Estrategia"
+        ],
+        "relaciones": [
+            "Medb (esposa)",
+            "Cú Chulainn (rival)"
+        ]
+    },
+    {
+        "id": 89,
+        "nombre": "Anansi",
+        "mitología": "Akan",
+        "descripcion": "Anansi es el dios araña en la mitología akan, conocido por su ingenio y astucia. Es considerado un dios del conocimiento y la sabiduría.",
+        "poderes": [
+            "Astucia",
+            "Manipulación",
+            "Sabiduría"
+        ],
+        "relaciones": [
+            "Nyame (dios creador)",
+            "Mmoatia (aliado)"
+        ]
+    },
+    {
+        "id": 90,
+        "nombre": "Nyame",
+        "mitología": "Akan",
+        "descripcion": "Nyame es el dios creador en la mitología akan, asociado con el cielo y la creación del mundo.",
+        "poderes": [
+            "Creación",
+            "Control sobre el cielo",
+            "Sabiduría"
+        ],
+        "relaciones": [
+            "Anansi (rival)",
+            "Mmoatia (aliado)"
+        ]
+    },
+    {
+        "id": 91,
+        "nombre": "Mmoatia",
+        "mitología": "Akan",
+        "descripcion": "Mmoatia es un ser mitológico en la mitología akan, conocido por su conexión con lo sobrenatural y el espíritu.",
+        "poderes": [
+            "Magia",
+            "Espiritualidad",
+            "Conexión con lo sobrenatural"
+        ],
+        "relaciones": [
+            "Nyame (aliado)",
+            "Anansi (rival)"
+        ]
+    },
+    {
+        "id": 92,
+        "nombre": "Zarathustra",
+        "mitología": "Zoroastriana",
+        "descripcion": "Zarathustra, también conocido como Zoroastro, es el profeta y fundador del zoroastrismo. Aunque no es un dios, su influencia es crucial en la mitología zoroastriana.",
+        "poderes": [
+            "Sabiduría",
+            "Revelación divina",
+            "Enseñanza de la verdad"
+        ],
+        "relaciones": [
+            "Ahura Mazda (dios principal)",
+            "Angra Mainyu (rival)"
+        ]
+    },
+    {
+        "id": 93,
+        "nombre": "Ahura Mazda",
+        "mitología": "Zoroastriana",
+        "descripcion": "Ahura Mazda es el dios principal del zoroastrismo, conocido por ser el creador del universo y la fuente de todo bien y verdad.",
+        "poderes": [
+            "Creación",
+            "Sabiduría",
+            "Control sobre el cosmos"
+        ],
+        "relaciones": [
+            "Angra Mainyu (rival)",
+            "Zarathustra (profeta)"
+        ]
+    },
+    {
+        "id": 94,
+        "nombre": "Angra Mainyu",
+        "mitología": "Zoroastriana",
+        "descripcion": "Angra Mainyu, también conocido como Ahriman, es el espíritu maligno en el zoroastrismo, opuesto a Ahura Mazda y asociado con la destrucción y el caos.",
+        "poderes": [
+            "Destrucción",
+            "Caos",
+            "Engaño"
+        ],
+        "relaciones": [
+            "Ahura Mazda (rival)",
+            "Zarathustra (rival)"
+        ]
+    }
+]

@@ -23,6 +23,11 @@ const getData = () => {
     return JSON.parse(fs.readFileSync(charactersPath, 'utf8'));
 };
 
+app.get('/', (req, res) => {
+    //Redirige a '/mythapi/all'
+    res.redirect('/mythapi/all');
+});
+
 //Obtención de todos los personajes, donde req es la variable dinámica introducida por HTTP y res es la respuesta que se devuelve
 app.get('/mythapi/all', (req, res) => {
     //Obtención del archivo JSON

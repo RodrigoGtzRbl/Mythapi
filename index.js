@@ -4,14 +4,10 @@ const express = require('express');
 const fs = require('fs');
 //Path para poder usar una ruta de búsqueda
 const path = require('path');
-//Importamos Cors para permitir acceso desde cualquier dispositivo
-const cors = require('cors');
 
 //Creamos la aplicación de express
 const app = express();
 
-//Configuramos Cors
-app.use(cors())
 
 app.use(express.json());
 

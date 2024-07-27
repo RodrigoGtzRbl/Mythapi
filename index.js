@@ -7,11 +7,11 @@ const path = require('path');
 //Importamos Cors para permitir acceso desde cualquier dispositivo
 const cors = require('cors');
 
-//Configuramos Cors
-app.use(cors())
-
 //Creamos la aplicación de express
 const app = express();
+
+//Configuramos Cors
+app.use(cors())
 
 app.use(express.json());
 

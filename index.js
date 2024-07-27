@@ -4,6 +4,11 @@ const express = require('express');
 const fs = require('fs');
 //Path para poder usar una ruta de búsqueda
 const path = require('path');
+//Importamos Cors para permitir acceso desde cualquier dispositivo
+const cors = require('cors');
+
+//Configuramos Cors
+app.use(cors())
 
 //Creamos la aplicación de express
 const app = express();
@@ -17,15 +22,6 @@ const charactersPath = path.join(__dirname, './resources/characters.json');
 const getData = () => {
     return JSON.parse(fs.readFileSync(charactersPath, 'utf8'));
 };
-
-//Si se usa la ruta / de acceso, nos redirigirá a la ruta /mythapi
-app.get('/', (req, res) => {
-    res.redirect('/mythapi');
-});
-//Esta ruta nos devuelve el index.html, donde están las instrucciones de uso
-app.get('/mythapi', (req, res) => {
-    res.sendFile(path.join(__dirname, 'index.html'));
-});
 
 //Obtención de todos los personajes, donde req es la variable dinámica introducida por HTTP y res es la respuesta que se devuelve
 app.get('/mythapi/all', (req, res) => {

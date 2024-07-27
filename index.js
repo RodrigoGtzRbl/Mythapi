@@ -5,9 +5,12 @@ const fs = require('fs');
 //Path para poder usar una ruta de búsqueda
 const path = require('path');
 
+const cors = require('cors');
+
+
 //Creamos la aplicación de express
 const app = express();
-
+app.use(cors());
 
 app.use(express.json());
 

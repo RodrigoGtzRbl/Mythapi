@@ -1,0 +1,375 @@
+[
+    {
+        "id": 1,
+        "name": "Cerberus",
+        "mythology": "Greek",
+        "description": "Three-headed dog that guards the entrance to the Underworld.",
+        "powers": [
+            "Supernatural strength",
+            "Immortality"
+        ],
+        "relations": [
+            "Hades (master)"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Chimera",
+        "mythology": "Greek",
+        "description": "Fire-breathing creature with the body of a lion, the head of a goat, and a snake for a tail.",
+        "powers": [
+            "Fire breathing",
+            "Supernatural strength"
+        ],
+        "relations": []
+    },
+    {
+        "id": 3,
+        "name": "Sphinx",
+        "mythology": "Greek",
+        "description": "Creature with the body of a lion and the head of a woman. Known for posing riddles.",
+        "powers": [
+            "Riddle posing",
+            "Supernatural strength"
+        ],
+        "relations": []
+    },
+    {
+        "id": 4,
+        "name": "Minotaur",
+        "mythology": "Greek",
+        "description": "Half-man, half-bull creature that lived in the Labyrinth.",
+        "powers": [
+            "Supernatural strength",
+            "Combat skills"
+        ],
+        "relations": []
+    },
+    {
+        "id": 5,
+        "name": "Pegasus",
+        "mythology": "Greek",
+        "description": "Winged horse that sprang from the blood of Medusa.",
+        "powers": [
+            "Flight",
+            "Supernatural speed"
+        ],
+        "relations": []
+    },
+    {
+        "id": 6,
+        "name": "Hydra",
+        "mythology": "Greek",
+        "description": "Multi-headed serpent that grew two heads for each one cut off.",
+        "powers": [
+            "Regeneration",
+            "Poisonous breath"
+        ],
+        "relations": []
+    },
+    {
+        "id": 7,
+        "name": "Phoenix",
+        "mythology": "Greek",
+        "description": "Immortal bird that regenerates or is reborn from its ashes.",
+        "powers": [
+            "Rebirth",
+            "Fire control"
+        ],
+        "relations": []
+    },
+    {
+        "id": 8,
+        "name": "Cyclops",
+        "mythology": "Greek",
+        "description": "One-eyed giant.",
+        "powers": [
+            "Supernatural strength",
+            "Expert craftsmanship"
+        ],
+        "relations": []
+    },
+    {
+        "id": 9,
+        "name": "Kraken",
+        "mythology": "Norse",
+        "description": "Giant sea monster that attacks ships.",
+        "powers": [
+            "Supernatural strength",
+            "Control over sea creatures"
+        ],
+        "relations": []
+    },
+    {
+        "id": 10,
+        "name": "Jörmungandr",
+        "mythology": "Norse",
+        "description": "World Serpent that encircles the earth.",
+        "powers": [
+            "Immense size",
+            "Poisonous breath"
+        ],
+        "relations": [
+            "Loki (father)",
+            "Hel (sister)",
+            "Fenrir (brother)"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Fenrir",
+        "mythology": "Norse",
+        "description": "Gigantic wolf destined to bring about Ragnarok.",
+        "powers": [
+            "Supernatural strength",
+            "Regeneration"
+        ],
+        "relations": [
+            "Loki (father)",
+            "Hel (sister)",
+            "Jörmungandr (brother)"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Nemean Lion",
+        "mythology": "Greek",
+        "description": "Invulnerable lion slain by Hercules.",
+        "powers": [
+            "Invulnerability",
+            "Supernatural strength"
+        ],
+        "relations": []
+    },
+    {
+        "id": 13,
+        "name": "Griffin",
+        "mythology": "Greek",
+        "description": "Creature with the body of a lion and the head and wings of an eagle.",
+        "powers": [
+            "Flight",
+            "Supernatural strength"
+        ],
+        "relations": []
+    },
+    {
+        "id": 14,
+        "name": "Banshee",
+        "mythology": "Irish",
+        "description": "Spirit whose wail is a harbinger of death.",
+        "powers": [
+            "Prophecy",
+            "Intangible"
+        ],
+        "relations": []
+    },
+    {
+        "id": 15,
+        "name": "Dragon",
+        "mythology": "Various",
+        "description": "Large, serpent-like legendary creature that appears in many cultures.",
+        "powers": [
+            "Flight",
+            "Fire breathing"
+        ],
+        "relations": []
+    },
+    {
+        "id": 16,
+        "name": "Manticore",
+        "mythology": "Persian",
+        "description": "Creature with the body of a lion, the tail of a scorpion, and the face of a man.",
+        "powers": [
+            "Venomous sting",
+            "Supernatural strength"
+        ],
+        "relations": []
+    },
+    {
+        "id": 17,
+        "name": "Basilisk",
+        "mythology": "European",
+        "description": "Serpent king with a deadly gaze and venom.",
+        "powers": [
+            "Deathly gaze",
+            "Venomous bite"
+        ],
+        "relations": []
+    },
+    {
+        "id": 18,
+        "name": "Yeti",
+        "mythology": "Tibetan",
+        "description": "Ape-like creature said to inhabit the Himalayan mountains.",
+        "powers": [
+            "Supernatural strength",
+            "Stealth"
+        ],
+        "relations": []
+    },
+    {
+        "id": 19,
+        "name": "Bigfoot",
+        "mythology": "North American",
+        "description": "Large, hairy, ape-like being that roams forests.",
+        "powers": [
+            "Supernatural strength",
+            "Stealth"
+        ],
+        "relations": []
+    },
+    {
+        "id": 20,
+        "name": "Medusa",
+        "mythology": "Greek",
+        "description": "Gorgon with snakes for hair, whose gaze turns people to stone.",
+        "powers": [
+            "Petrifying gaze",
+            "Snake control"
+        ],
+        "relations": []
+    },
+    {
+        "id": 21,
+        "name": "Chupacabra",
+        "mythology": "Latin American",
+        "description": "Creature that feeds on the blood of livestock.",
+        "powers": [
+            "Bloodsucking",
+            "Stealth"
+        ],
+        "relations": []
+    },
+    {
+        "id": 22,
+        "name": "Loch Ness Monster",
+        "mythology": "Scottish",
+        "description": "Aquatic being said to inhabit Loch Ness in Scotland.",
+        "powers": [
+            "Underwater breathing",
+            "Supernatural strength"
+        ],
+        "relations": []
+    },
+    {
+        "id": 23,
+        "name": "Anansi",
+        "mythology": "African",
+        "description": "Trickster spider god from African folklore.",
+        "powers": [
+            "Shapeshifting",
+            "Trickery"
+        ],
+        "relations": []
+    },
+    {
+        "id": 24,
+        "name": "Bakunawa",
+        "mythology": "Filipino",
+        "description": "Serpent-like dragon that causes eclipses.",
+        "powers": [
+            "Weather control",
+            "Flight"
+        ],
+        "relations": []
+    },
+    {
+        "id": 25,
+        "name": "Jiangshi",
+        "mythology": "Chinese",
+        "description": "Reanimated corpse that feeds on the life force of the living.",
+        "powers": [
+            "Supernatural strength",
+            "Life force absorption"
+        ],
+        "relations": []
+    },
+    {
+        "id": 26,
+        "name": "Qilin",
+        "mythology": "Chinese",
+        "description": "Dragon-like creature that brings good luck and prosperity.",
+        "powers": [
+            "Fire control",
+            "Healing"
+        ],
+        "relations": []
+    },
+    {
+        "id": 27,
+        "name": "Roc",
+        "mythology": "Middle Eastern",
+        "description": "Giant bird of prey from Middle Eastern mythology.",
+        "powers": [
+            "Flight",
+            "Supernatural strength"
+        ],
+        "relations": []
+    },
+    {
+        "id": 28,
+        "name": "Simurgh",
+        "mythology": "Persian",
+        "description": "Benevolent, mythical bird in Persian mythology.",
+        "powers": [
+            "Healing",
+            "Flight"
+        ],
+        "relations": []
+    },
+    {
+        "id": 29,
+        "name": "Tengu",
+        "mythology": "Japanese",
+        "description": "Bird-like demon or spirit from Japanese folklore.",
+        "powers": [
+            "Flight",
+            "Shapeshifting"
+        ],
+        "relations": []
+    },
+    {
+        "id": 30,
+        "name": "Wendigo",
+        "mythology": "Algonquian",
+        "description": "Malevolent spirit or monster from Algonquian folklore.",
+        "powers": [
+            "Supernatural strength",
+            "Regeneration"
+        ],
+        "relations": []
+    },
+    {
+        "id": 31,
+        "name": "Baba Yaga",
+        "mythology": "Slavic",
+        "description": "Witch-like being who lives in a hut on chicken legs.",
+        "powers": [
+            "Magic",
+            "Shapeshifting"
+        ],
+        "relations": []
+    },
+    {
+        "id": 32,
+        "name": "Kitsune",
+        "mythology": "Japanese",
+        "description": "Fox spirit with multiple tails and magical abilities.",
+        "powers": [
+            "Shapeshifting",
+            "Illusions"
+        ],
+        "relations": []
+    },
+    {
+        "id": 33,
+        "name": "Krampus",
+        "mythology": "Austrian",
+        "description": "Horned figure who punishes misbehaving children.",
+        "powers": [
+            "Supernatural strength",
+            "Stealth"
+        ],
+        "relations": []
+    }
+]

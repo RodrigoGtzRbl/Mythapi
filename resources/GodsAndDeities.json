@@ -1,0 +1,979 @@
+[
+    {
+        "id": 1,
+        "name": "Zeus",
+        "mythology": "Greek",
+        "description": "God of the sky and thunder. King of the gods.",
+        "powers": [
+            "Control of lightning",
+            "Transformation"
+        ],
+        "relations": [
+            "Hera (wife)",
+            "Athena (daughter)"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hera",
+        "mythology": "Greek",
+        "description": "Goddess of marriage and family. Wife of Zeus.",
+        "powers": [
+            "Protection of marriage",
+            "Transformation"
+        ],
+        "relations": [
+            "Zeus (husband)",
+            "Ares (son)"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Poseidon",
+        "mythology": "Greek",
+        "description": "God of the sea and earthquakes. Brother of Zeus.",
+        "powers": [
+            "Control of water",
+            "Generation of earthquakes"
+        ],
+        "relations": [
+            "Zeus (brother)",
+            "Hades (brother)"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Athena",
+        "mythology": "Greek",
+        "description": "Goddess of wisdom and war. Daughter of Zeus.",
+        "powers": [
+            "Wisdom",
+            "Strategic warfare"
+        ],
+        "relations": [
+            "Zeus (father)"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Apollo",
+        "mythology": "Greek",
+        "description": "God of music, prophecy, and the sun. Son of Zeus.",
+        "powers": [
+            "Prophecy",
+            "Healing",
+            "Music"
+        ],
+        "relations": [
+            "Zeus (father)",
+            "Artemis (sister)"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Artemis",
+        "mythology": "Greek",
+        "description": "Goddess of the hunt, virginity, and the moon. Sister of Apollo.",
+        "powers": [
+            "Hunting",
+            "Protection of the young",
+            "Control over the moon"
+        ],
+        "relations": [
+            "Zeus (father)",
+            "Apollo (brother)"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Ares",
+        "mythology": "Greek",
+        "description": "God of war. Son of Zeus and Hera.",
+        "powers": [
+            "Combat skills",
+            "Strength"
+        ],
+        "relations": [
+            "Zeus (father)",
+            "Hera (mother)"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Aphrodite",
+        "mythology": "Greek",
+        "description": "Goddess of love and beauty.",
+        "powers": [
+            "Love",
+            "Beauty",
+            "Seduction"
+        ],
+        "relations": [
+            "Hephaestus (husband)",
+            "Ares (lover)"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Hermes",
+        "mythology": "Greek",
+        "description": "God of trade, thieves, and travel. Messenger of the gods.",
+        "powers": [
+            "Speed",
+            "Cunning",
+            "Communication"
+        ],
+        "relations": [
+            "Zeus (father)",
+            "Maia (mother)"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Hephaestus",
+        "mythology": "Greek",
+        "description": "God of fire and blacksmiths. Son of Zeus and Hera.",
+        "powers": [
+            "Blacksmithing",
+            "Fire manipulation"
+        ],
+        "relations": [
+            "Aphrodite (wife)"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Hades",
+        "mythology": "Greek",
+        "description": "God of the underworld. Brother of Zeus.",
+        "powers": [
+            "Control of the underworld",
+            "Invisibility"
+        ],
+        "relations": [
+            "Persephone (wife)",
+            "Zeus (brother)"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Persephone",
+        "mythology": "Greek",
+        "description": "Goddess of spring and queen of the underworld.",
+        "powers": [
+            "Growth",
+            "Resurrection"
+        ],
+        "relations": [
+            "Demeter (mother)",
+            "Hades (husband)"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Hestia",
+        "mythology": "Greek",
+        "description": "Goddess of the hearth and home.",
+        "powers": [
+            "Hearth",
+            "Domesticity"
+        ],
+        "relations": [
+            "Zeus (brother)",
+            "Hera (sister)"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Dionysus",
+        "mythology": "Greek",
+        "description": "God of wine, pleasure, and festivity.",
+        "powers": [
+            "Wine creation",
+            "Ecstasy"
+        ],
+        "relations": [
+            "Zeus (father)",
+            "Semele (mother)"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Heracles",
+        "mythology": "Greek",
+        "description": "Hero known for his strength and his 12 labors.",
+        "powers": [
+            "Superhuman strength",
+            "Endurance"
+        ],
+        "relations": [
+            "Zeus (father)",
+            "Hera (stepmother)"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Aeneas",
+        "mythology": "Roman",
+        "description": "Trojan hero, son of Venus, and ancestor of Romulus and Remus.",
+        "powers": [
+            "Leadership",
+            "Bravery"
+        ],
+        "relations": [
+            "Venus (mother)",
+            "Anchises (father)"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Romulus",
+        "mythology": "Roman",
+        "description": "Founder of Rome, raised by a she-wolf.",
+        "powers": [
+            "Leadership",
+            "Combat skills"
+        ],
+        "relations": [
+            "Remus (brother)"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Remus",
+        "mythology": "Roman",
+        "description": "Twin brother of Romulus, raised by a she-wolf.",
+        "powers": [
+            "Strength",
+            "Agility"
+        ],
+        "relations": [
+            "Romulus (brother)"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Julius Caesar",
+        "mythology": "Roman",
+        "description": "Roman general and statesman, deified after death.",
+        "powers": [
+            "Leadership",
+            "Military strategy"
+        ],
+        "relations": [
+            "Augustus (adopted son)"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Osiris",
+        "mythology": "Egyptian",
+        "description": "God of the afterlife, resurrection, and the dead.",
+        "powers": [
+            "Resurrection",
+            "Judging the dead"
+        ],
+        "relations": [
+            "Isis (wife)",
+            "Horus (son)"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Isis",
+        "mythology": "Egyptian",
+        "description": "Goddess of magic and motherhood.",
+        "powers": [
+            "Magic",
+            "Protection"
+        ],
+        "relations": [
+            "Osiris (husband)",
+            "Horus (son)"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Horus",
+        "mythology": "Egyptian",
+        "description": "God of the sky and kingship.",
+        "powers": [
+            "Vision",
+            "Flight"
+        ],
+        "relations": [
+            "Osiris (father)",
+            "Isis (mother)"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Anubis",
+        "mythology": "Egyptian",
+        "description": "God of mummification and protector of the dead.",
+        "powers": [
+            "Mummification",
+            "Protection of souls"
+        ],
+        "relations": [
+            "Osiris (ally)",
+            "Nephthys (mother)"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Ra",
+        "mythology": "Egyptian",
+        "description": "God of the sun and creation.",
+        "powers": [
+            "Control over the sun",
+            "Creation"
+        ],
+        "relations": [
+            "Osiris (ally)",
+            "Horus (descendant)"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Seth",
+        "mythology": "Egyptian",
+        "description": "God of chaos, desert, and storms.",
+        "powers": [
+            "Chaos",
+            "Strength"
+        ],
+        "relations": [
+            "Osiris (brother)",
+            "Horus (nephew)"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Thoth",
+        "mythology": "Egyptian",
+        "description": "God of wisdom and writing.",
+        "powers": [
+            "Wisdom",
+            "Magic"
+        ],
+        "relations": [
+            "Ma'at (consort)"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Ma'at",
+        "mythology": "Egyptian",
+        "description": "Goddess of truth, justice, and cosmic order.",
+        "powers": [
+            "Truth",
+            "Justice"
+        ],
+        "relations": [
+            "Thoth (consort)"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Bastet",
+        "mythology": "Egyptian",
+        "description": "Goddess of home, fertility, and cats.",
+        "powers": [
+            "Protection",
+            "Fertility"
+        ],
+        "relations": [
+            "Ra (father)"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Shiva",
+        "mythology": "Hindu",
+        "description": "God of destruction and regeneration.",
+        "powers": [
+            "Destruction",
+            "Regeneration"
+        ],
+        "relations": [
+            "Parvati (wife)",
+            "Ganesha (son)"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Vishnu",
+        "mythology": "Hindu",
+        "description": "Preserver of the universe, part of the Hindu trinity.",
+        "powers": [
+            "Preservation",
+            "Protection"
+        ],
+        "relations": [
+            "Lakshmi (wife)",
+            "Shiva (ally)"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Brahma",
+        "mythology": "Hindu",
+        "description": "God of creation, part of the Hindu trinity.",
+        "powers": [
+            "Creation",
+            "Wisdom"
+        ],
+        "relations": [
+            "Sarasvati (wife)"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Ganesha",
+        "mythology": "Hindu",
+        "description": "God of wisdom, prosperity, and new beginnings.",
+        "powers": [
+            "Wisdom",
+            "Prosperity"
+        ],
+        "relations": [
+            "Shiva (father)",
+            "Parvati (mother)"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Parvati",
+        "mythology": "Hindu",
+        "description": "Goddess of love, fertility, and devotion.",
+        "powers": [
+            "Love",
+            "Fertility"
+        ],
+        "relations": [
+            "Shiva (husband)",
+            "Ganesha (son)"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Krishna",
+        "mythology": "Hindu",
+        "description": "Eighth avatar of Vishnu, known for his wisdom and miracles.",
+        "powers": [
+            "Wisdom",
+            "Miracles"
+        ],
+        "relations": [
+            "Radha (consort)",
+            "Arjuna (friend)"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Lakshmi",
+        "mythology": "Hindu",
+        "description": "Goddess of wealth, fortune, and prosperity.",
+        "powers": [
+            "Wealth",
+            "Prosperity"
+        ],
+        "relations": [
+            "Vishnu (husband)"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Indra",
+        "mythology": "Hindu",
+        "description": "God of thunder and rain, king of the gods.",
+        "powers": [
+            "Thunder",
+            "Rain"
+        ],
+        "relations": [
+            "Sachi (wife)"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Yamato Takeru",
+        "mythology": "Japanese",
+        "description": "Legendary prince of the Yamato dynasty.",
+        "powers": [
+            "Combat skills",
+            "Leadership"
+        ],
+        "relations": [
+            "Emperor Keiko (father)"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Amaterasu",
+        "mythology": "Japanese",
+        "description": "Goddess of the sun and the universe.",
+        "powers": [
+            "Sunlight",
+            "Creation"
+        ],
+        "relations": [
+            "Susanoo (brother)",
+            "Tsukuyomi (brother)"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Tsukuyomi",
+        "mythology": "Japanese",
+        "description": "God of the moon.",
+        "powers": [
+            "Moonlight"
+        ],
+        "relations": [
+            "Amaterasu (sister)",
+            "Susanoo (brother)"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Raijin",
+        "mythology": "Japanese",
+        "description": "God of thunder and lightning.",
+        "powers": [
+            "Control of thunder",
+            "Control of lightning"
+        ],
+        "relations": [
+            "Fujin (brother)"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Fujin",
+        "mythology": "Japanese",
+        "description": "God of wind.",
+        "powers": [
+            "Control of wind"
+        ],
+        "relations": [
+            "Raijin (brother)"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Izanagi",
+        "mythology": "Japanese",
+        "description": "God of creation and life.",
+        "powers": [
+            "Creation",
+            "Life"
+        ],
+        "relations": [
+            "Izanami (wife)"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Izanami",
+        "mythology": "Japanese",
+        "description": "Goddess of creation and death.",
+        "powers": [
+            "Creation",
+            "Death"
+        ],
+        "relations": [
+            "Izanagi (husband)"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Odin",
+        "mythology": "Norse",
+        "description": "God of wisdom, war, and death. King of the gods.",
+        "powers": [
+            "Wisdom",
+            "War",
+            "Death"
+        ],
+        "relations": [
+            "Frigg (wife)",
+            "Thor (son)"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Thor",
+        "mythology": "Norse",
+        "description": "God of thunder, lightning, and storms. Son of Odin.",
+        "powers": [
+            "Thunder",
+            "Lightning",
+            "Strength"
+        ],
+        "relations": [
+            "Odin (father)",
+            "Loki (adopted brother)"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Loki",
+        "mythology": "Norse",
+        "description": "God of mischief and trickery.",
+        "powers": [
+            "Mischief",
+            "Shapeshifting"
+        ],
+        "relations": [
+            "Odin (adopted father)",
+            "Thor (adopted brother)"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Freya",
+        "mythology": "Norse",
+        "description": "Goddess of love, beauty, and fertility.",
+        "powers": [
+            "Love",
+            "Fertility",
+            "Magic"
+        ],
+        "relations": [
+            "Odin (husband)",
+            "Frey (brother)"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Tyr",
+        "mythology": "Norse",
+        "description": "God of war and justice.",
+        "powers": [
+            "War",
+            "Justice"
+        ],
+        "relations": [
+            "Odin (father)"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Heimdall",
+        "mythology": "Norse",
+        "description": "Guardian of the Bifrost bridge.",
+        "powers": [
+            "Superhuman sight",
+            "Superhuman hearing"
+        ],
+        "relations": [
+            "Odin (father)"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Frigg",
+        "mythology": "Norse",
+        "description": "Goddess of marriage and motherhood. Wife of Odin.",
+        "powers": [
+            "Prophecy",
+            "Marriage protection"
+        ],
+        "relations": [
+            "Odin (husband)",
+            "Balder (son)"
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Balder",
+        "mythology": "Norse",
+        "description": "God of beauty, love, and happiness.",
+        "powers": [
+            "Invulnerability",
+            "Beauty"
+        ],
+        "relations": [
+            "Odin (father)",
+            "Frigg (mother)"
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Lugh",
+        "mythology": "Celtic",
+        "description": "God of light and craftsmanship.",
+        "powers": [
+            "Light",
+            "Craftsmanship"
+        ],
+        "relations": [
+            "Dagda (father)"
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Dagda",
+        "mythology": "Celtic",
+        "description": "God of the earth, knowledge, and abundance.",
+        "powers": [
+            "Earth",
+            "Knowledge",
+            "Abundance"
+        ],
+        "relations": [
+            "Brigid (daughter)",
+            "Boann (consort)"
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Brigid",
+        "mythology": "Celtic",
+        "description": "Goddess of fire, poetry, and healing.",
+        "powers": [
+            "Fire",
+            "Poetry",
+            "Healing"
+        ],
+        "relations": [
+            "Dagda (father)"
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Morrigan",
+        "mythology": "Celtic",
+        "description": "Goddess of war and fate.",
+        "powers": [
+            "War",
+            "Fate"
+        ],
+        "relations": [
+            "Dagda (consort)"
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Nuada",
+        "mythology": "Celtic",
+        "description": "God of the sea and healing.",
+        "powers": [
+            "Sea",
+            "Healing"
+        ],
+        "relations": [
+            "Boann (mother)"
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Boann",
+        "mythology": "Celtic",
+        "description": "Goddess of the River Boyne.",
+        "powers": [
+            "Water",
+            "Healing"
+        ],
+        "relations": [
+            "Dagda (consort)"
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Fionn mac Cumhaill",
+        "mythology": "Celtic",
+        "description": "Legendary warrior and hero.",
+        "powers": [
+            "Strength",
+            "Leadership"
+        ],
+        "relations": [
+            "Finn (son)"
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Cú Chulainn",
+        "mythology": "Celtic",
+        "description": "Legendary warrior hero.",
+        "powers": [
+            "Combat skills",
+            "Strength"
+        ],
+        "relations": [
+            "Dechtire (mother)"
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Ceridwen",
+        "mythology": "Celtic",
+        "description": "Goddess of wisdom and inspiration.",
+        "powers": [
+            "Wisdom",
+            "Inspiration"
+        ],
+        "relations": [
+            "Tegid Foel (husband)"
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Lir",
+        "mythology": "Celtic",
+        "description": "God of the sea.",
+        "powers": [
+            "Control over the sea"
+        ],
+        "relations": [
+            "Manannán mac Lir (son)"
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Manannán mac Lir",
+        "mythology": "Celtic",
+        "description": "God of the sea and ruler of the Otherworld.",
+        "powers": [
+            "Sea",
+            "Magic"
+        ],
+        "relations": [
+            "Lir (father)"
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Tu Di Gong",
+        "mythology": "Chinese",
+        "description": "God of the earth and land.",
+        "powers": [
+            "Protection",
+            "Fertility"
+        ],
+        "relations": [
+            "Tu Di Po (wife)"
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Nezha",
+        "mythology": "Chinese",
+        "description": "Protection deity, known for his rebellious nature.",
+        "powers": [
+            "Combat skills",
+            "Protection"
+        ],
+        "relations": [
+            "Li Jing (father)"
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Guan Yu",
+        "mythology": "Chinese",
+        "description": "God of war, loyalty, and righteousness.",
+        "powers": [
+            "War",
+            "Loyalty"
+        ],
+        "relations": [
+            "Liu Bei (ally)"
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Jade Emperor",
+        "mythology": "Chinese",
+        "description": "Supreme deity and ruler of heaven.",
+        "powers": [
+            "Supreme authority",
+            "Creation"
+        ],
+        "relations": [
+            "Xiwangmu (consort)"
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Xiwangmu",
+        "mythology": "Chinese",
+        "description": "Queen Mother of the West, goddess of immortality.",
+        "powers": [
+            "Immortality",
+            "Life"
+        ],
+        "relations": [
+            "Jade Emperor (consort)"
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Nuwa",
+        "mythology": "Chinese",
+        "description": "Goddess who created mankind and repaired the sky.",
+        "powers": [
+            "Creation",
+            "Healing"
+        ],
+        "relations": [
+            "Fuxi (brother)"
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Fuxi",
+        "mythology": "Chinese",
+        "description": "God of creation and humanity.",
+        "powers": [
+            "Creation",
+            "Wisdom"
+        ],
+        "relations": [
+            "Nuwa (sister)"
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Sun Wukong",
+        "mythology": "Chinese",
+        "description": "Monkey King, known for his strength and mischief.",
+        "powers": [
+            "Strength",
+            "Shapeshifting",
+            "Immortality"
+        ],
+        "relations": [
+            "Jade Emperor (rival)"
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Chang'e",
+        "mythology": "Chinese",
+        "description": "Goddess of the moon.",
+        "powers": [
+            "Moonlight",
+            "Immortality"
+        ],
+        "relations": [
+            "Hou Yi (husband)"
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Hou Yi",
+        "mythology": "Chinese",
+        "description": "Archer hero who shot down nine suns.",
+        "powers": [
+            "Archery",
+            "Strength"
+        ],
+        "relations": [
+            "Chang'e (wife)"
+        ]
+    }
+]

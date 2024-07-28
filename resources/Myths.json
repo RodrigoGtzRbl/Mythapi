@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "name": "The Odyssey",
+        "mythology": "Greek",
+        "description": "Epic poem about Odysseus' journey home after the Trojan War.",
+        "heroes": [
+            "Odysseus"
+        ],
+        "creatures": [
+            "Cyclops",
+            "Scylla"
+        ],
+        "artifacts": []
+    },
+    {
+        "id": 2,
+        "name": "The Twelve Labors of Hercules",
+        "mythology": "Greek",
+        "description": "Series of episodes concerning a penance carried out by Hercules.",
+        "heroes": [
+            "Hercules"
+        ],
+        "creatures": [
+            "Nemean Lion",
+            "Hydra"
+        ],
+        "artifacts": []
+    },
+    {
+        "id": 3,
+        "name": "The Iliad",
+        "mythology": "Greek",
+        "description": "Epic poem set during the Trojan War.",
+        "heroes": [
+            "Achilles"
+        ],
+        "creatures": [],
+        "artifacts": []
+    },
+    {
+        "id": 4,
+        "name": "The Argonautica",
+        "mythology": "Greek",
+        "description": "Epic poem about Jason and the Argonauts' quest for the Golden Fleece.",
+        "heroes": [
+            "Jason"
+        ],
+        "creatures": [],
+        "artifacts": [
+            "Golden Fleece"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Beowulf",
+        "mythology": "Anglo-Saxon",
+        "description": "Epic poem about the hero Beowulf who fights Grendel and a dragon.",
+        "heroes": [
+            "Beowulf"
+        ],
+        "creatures": [],
+        "artifacts": []
+    },
+    {
+        "id": 6,
+        "name": "The Tale of King Arthur",
+        "mythology": "British",
+        "description": "Legends about the leader of the Knights of the Round Table.",
+        "heroes": [
+            "King Arthur"
+        ],
+        "creatures": [],
+        "artifacts": [
+            "Excalibur",
+            "Holy Grail"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "The Ramayana",
+        "mythology": "Hindu",
+        "description": "Epic about Prince Rama's quest to rescue his wife Sita.",
+        "heroes": [
+            "Rama"
+        ],
+        "creatures": [],
+        "artifacts": []
+    },
+    {
+        "id": 8,
+        "name": "The Mahabharata",
+        "mythology": "Hindu",
+        "description": "Epic about the Kurukshetra War and the fates of the Kaurava and the Pandava princes.",
+        "heroes": [
+            "Arjuna",
+            "Karna"
+        ],
+        "creatures": [],
+        "artifacts": []
+    },
+    {
+        "id": 9,
+        "name": "The Epic of Gilgamesh",
+        "mythology": "Mesopotamian",
+        "description": "Epic poem about the hero Gilgamesh's quest for immortality.",
+        "heroes": [
+            "Gilgamesh"
+        ],
+        "creatures": [],
+        "artifacts": []
+    },
+    {
+        "id": 10,
+        "name": "The Táin",
+        "mythology": "Irish",
+        "description": "Epic about the hero Cu Chulainn defending Ulster from the armies of Connacht.",
+        "heroes": [
+            "Cu Chulainn"
+        ],
+        "creatures": [],
+        "artifacts": []
+    }
+]

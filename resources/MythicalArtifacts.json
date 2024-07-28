@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "name": "Mjolnir",
+        "mythology": "Norse",
+        "description": "Thor's hammer that returns to him when thrown.",
+        "powers": [
+            "Control over thunder",
+            "Supernatural strength"
+        ],
+        "relations": [
+            "Thor (owner)"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Excalibur",
+        "mythology": "British",
+        "description": "King Arthur's magical sword.",
+        "powers": [
+            "Invincibility",
+            "Leadership"
+        ],
+        "relations": [
+            "King Arthur (owner)"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Golden Fleece",
+        "mythology": "Greek",
+        "description": "Fleece of a golden-haired winged ram.",
+        "powers": [
+            "Healing",
+            "Protection"
+        ],
+        "relations": [
+            "Jason (seeker)"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Pandora's Box",
+        "mythology": "Greek",
+        "description": "Box that contained all the evils of the world.",
+        "powers": [
+            "Release of misfortune"
+        ],
+        "relations": [
+            "Pandora (owner)"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Holy Grail",
+        "mythology": "Christian",
+        "description": "Cup used by Jesus at the Last Supper, sought after by many.",
+        "powers": [
+            "Healing",
+            "Eternal youth"
+        ],
+        "relations": []
+    },
+    {
+        "id": 6,
+        "name": "Trident of Poseidon",
+        "mythology": "Greek",
+        "description": "Poseidon's weapon that can control the sea.",
+        "powers": [
+            "Control over water",
+            "Weather manipulation"
+        ],
+        "relations": [
+            "Poseidon (owner)"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Apple of Discord",
+        "mythology": "Greek",
+        "description": "Golden apple that led to the Trojan War.",
+        "powers": [
+            "Discord",
+            "Chaos"
+        ],
+        "relations": []
+    },
+    {
+        "id": 8,
+        "name": "Book of Thoth",
+        "mythology": "Egyptian",
+        "description": "Book containing infinite knowledge written by the god Thoth.",
+        "powers": [
+            "Infinite knowledge",
+            "Wisdom"
+        ],
+        "relations": []
+    },
+    {
+        "id": 9,
+        "name": "Gungnir",
+        "mythology": "Norse",
+        "description": "Odin's spear that never misses its target.",
+        "powers": [
+            "Perfect accuracy",
+            "Supernatural strength"
+        ],
+        "relations": [
+            "Odin (owner)"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Tarnhelm",
+        "mythology": "Norse",
+        "description": "Helmet that grants the power of invisibility.",
+        "powers": [
+            "Invisibility",
+            "Shapeshifting"
+        ],
+        "relations": []
+    },
+    {
+        "id": 11,
+        "name": "Ark of the Covenant",
+        "mythology": "Jewish",
+        "description": "Sacred chest that holds the tablets of the Ten Commandments.",
+        "powers": [
+            "Divine protection",
+            "Destructive power"
+        ],
+        "relations": []
+    },
+    {
+        "id": 12,
+        "name": "Amaterasu's Mirror",
+        "mythology": "Japanese",
+        "description": "Sacred mirror that represents wisdom and honesty.",
+        "powers": [
+            "Revelation",
+            "Wisdom"
+        ],
+        "relations": []
+    },
+    {
+        "id": 13,
+        "name": "Scylla's Necklace",
+        "mythology": "Greek",
+        "description": "Necklace that gives power over the seas.",
+        "powers": [
+            "Control over water",
+            "Summon sea creatures"
+        ],
+        "relations": []
+    },
+    {
+        "id": 14,
+        "name": "Aegis",
+        "mythology": "Greek",
+        "description": "Zeus and Athena's shield that provides protection.",
+        "powers": [
+            "Invincibility",
+            "Fear"
+        ],
+        "relations": [
+            "Zeus (owner)",
+            "Athena (owner)"
+        ]
+    }
+]

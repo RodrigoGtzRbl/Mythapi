@@ -1,0 +1,319 @@
+[
+    {
+        "id": 1,
+        "name": "Hercules",
+        "mythology": "Greek",
+        "description": "Hero known for his incredible strength and his twelve labors.",
+        "powers": [
+            "Superhuman strength",
+            "Endurance"
+        ],
+        "relations": [
+            "Zeus (father)",
+            "Alcmene (mother)"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Achilles",
+        "mythology": "Greek",
+        "description": "Hero of the Trojan War, known for his near invincibility.",
+        "powers": [
+            "Near invincibility",
+            "Combat skills"
+        ],
+        "relations": [
+            "Peleus (father)",
+            "Thetis (mother)"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Odysseus",
+        "mythology": "Greek",
+        "description": "Hero of Homer's epic poem, known for his intelligence and cunning.",
+        "powers": [
+            "Intelligence",
+            "Cunning"
+        ],
+        "relations": [
+            "Laertes (father)",
+            "Anticlea (mother)"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Perseus",
+        "mythology": "Greek",
+        "description": "Hero who slew Medusa and saved Andromeda.",
+        "powers": [
+            "Combat skills",
+            "Courage"
+        ],
+        "relations": [
+            "Zeus (father)",
+            "Danaë (mother)"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Theseus",
+        "mythology": "Greek",
+        "description": "Hero who defeated the Minotaur and founded Athens.",
+        "powers": [
+            "Strength",
+            "Leadership"
+        ],
+        "relations": [
+            "Aegeus (father)",
+            "Aethra (mother)"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Jason",
+        "mythology": "Greek",
+        "description": "Leader of the Argonauts on the quest for the Golden Fleece.",
+        "powers": [
+            "Leadership",
+            "Sailing"
+        ],
+        "relations": [
+            "Aeson (father)"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Atalanta",
+        "mythology": "Greek",
+        "description": "Heroine known for her speed and hunting skills.",
+        "powers": [
+            "Super speed",
+            "Hunting skills"
+        ],
+        "relations": []
+    },
+    {
+        "id": 8,
+        "name": "Bellerophon",
+        "mythology": "Greek",
+        "description": "Hero who tamed Pegasus and defeated the Chimera.",
+        "powers": [
+            "Combat skills",
+            "Taming mythical creatures"
+        ],
+        "relations": [
+            "Glaucus (father)"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Beowulf",
+        "mythology": "Anglo-Saxon",
+        "description": "Hero who defeated Grendel and a dragon.",
+        "powers": [
+            "Superhuman strength",
+            "Endurance"
+        ],
+        "relations": []
+    },
+    {
+        "id": 10,
+        "name": "King Arthur",
+        "mythology": "British",
+        "description": "Legendary British leader who led the defense against Saxon invaders.",
+        "powers": [
+            "Leadership",
+            "Swordsmanship"
+        ],
+        "relations": [
+            "Uther Pendragon (father)"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Sir Lancelot",
+        "mythology": "British",
+        "description": "Knight of the Round Table known for his affair with Queen Guinevere.",
+        "powers": [
+            "Combat skills",
+            "Chivalry"
+        ],
+        "relations": []
+    },
+    {
+        "id": 12,
+        "name": "Robin Hood",
+        "mythology": "English",
+        "description": "Outlaw hero who stole from the rich to give to the poor.",
+        "powers": [
+            "Archery",
+            "Cunning"
+        ],
+        "relations": []
+    },
+    {
+        "id": 13,
+        "name": "Sigurd",
+        "mythology": "Norse",
+        "description": "Hero who slew the dragon Fafnir.",
+        "powers": [
+            "Combat skills",
+            "Dragon slaying"
+        ],
+        "relations": [
+            "Sigmund (father)"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Cu Chulainn",
+        "mythology": "Irish",
+        "description": "Hero known for his terrifying battle frenzy.",
+        "powers": [
+            "Combat skills",
+            "Battle frenzy"
+        ],
+        "relations": [
+            "Deichtine (mother)"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Fionn mac Cumhaill",
+        "mythology": "Irish",
+        "description": "Leader of the Fianna.",
+        "powers": [
+            "Superhuman strength",
+            "Leadership"
+        ],
+        "relations": [
+            "Finn (son)"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Gilgamesh",
+        "mythology": "Mesopotamian",
+        "description": "Hero and king who sought immortality.",
+        "powers": [
+            "Superhuman strength",
+            "Endurance"
+        ],
+        "relations": []
+    },
+    {
+        "id": 17,
+        "name": "Rama",
+        "mythology": "Hindu",
+        "description": "Prince and hero of the Ramayana, known for his virtue.",
+        "powers": [
+            "Archery",
+            "Virtue"
+        ],
+        "relations": [
+            "Dasharatha (father)",
+            "Sita (wife)"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Arjuna",
+        "mythology": "Hindu",
+        "description": "Hero of the Mahabharata, renowned for his skills in archery.",
+        "powers": [
+            "Archery",
+            "Combat skills"
+        ],
+        "relations": [
+            "Pandu (father)",
+            "Kunti (mother)"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Siegfried",
+        "mythology": "German",
+        "description": "Hero who killed the dragon Fafnir.",
+        "powers": [
+            "Combat skills",
+            "Dragon slaying"
+        ],
+        "relations": []
+    },
+    {
+        "id": 20,
+        "name": "Orpheus",
+        "mythology": "Greek",
+        "description": "Hero known for his musical skills, who tried to bring his wife back from the Underworld.",
+        "powers": [
+            "Musical skills",
+            "Charm"
+        ],
+        "relations": [
+            "Apollo (father)",
+            "Calliope (mother)"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Thor",
+        "mythology": "Norse",
+        "description": "God of thunder and hero who wields the hammer Mjolnir.",
+        "powers": [
+            "Control over thunder",
+            "Superhuman strength"
+        ],
+        "relations": [
+            "Odin (father)",
+            "Frigg (mother)"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Karna",
+        "mythology": "Hindu",
+        "description": "Hero of the Mahabharata, known for his generosity and loyalty.",
+        "powers": [
+            "Combat skills",
+            "Generosity"
+        ],
+        "relations": [
+            "Surya (father)"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Hiawatha",
+        "mythology": "Iroquois",
+        "description": "Legendary leader and co-founder of the Iroquois Confederacy.",
+        "powers": [
+            "Leadership",
+            "Oratory skills"
+        ],
+        "relations": []
+    },
+    {
+        "id": 24,
+        "name": "Sun Wukong",
+        "mythology": "Chinese",
+        "description": "Monkey King with incredible strength and the ability to shapeshift.",
+        "powers": [
+            "Superhuman strength",
+            "Shapeshifting",
+            "Immortality"
+        ],
+        "relations": []
+    },
+    {
+        "id": 25,
+        "name": "Maui",
+        "mythology": "Polynesian",
+        "description": "Trickster hero known for his exploits in shaping the world.",
+        "powers": [
+            "Shapeshifting",
+            "Superhuman strength"
+        ],
+        "relations": []
+    }
+]

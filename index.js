@@ -1,65 +1,102 @@
-//Usaremos express
+
 const express = require('express');
-//FileSystem para poder acceder a los archivos del servidor
+
 const fs = require('fs');
-//Path para poder usar una ruta de búsqueda
+
 const path = require('path');
 
 const cors = require('cors');
 
 
-//Creamos la aplicación de express
 const app = express();
 app.use(cors());
 
 app.use(express.json());
 
-//Establecemos la ruta del archivo que se va a usar
-const charactersPath = path.join(__dirname, './resources/characters.json');
+//Function to get the JSON dinamically
+const getData = (archive) => {
+    const archivePath = path.join(__dirname, 'resources', `${archive}.json`);
 
-//Obtención del archivo JSON
-const getData = () => {
-    return JSON.parse(fs.readFileSync(charactersPath, 'utf8'));
+    if (fs.existsSync(archivePath)) {
+        return JSON.parse(fs.readFileSync(archivePath, 'utf8'));
+    } else {
+        // Maneja el caso en el que el archivo no existe
+        return { error: "File not found" };
+    }
 };
 
-app.get('/', (req, res) => {
-    //Redirige a '/mythapi/all'
-    res.redirect('/mythapi/all');
-});
+//Function to get all data from all JSON files
+const getAllData = () => {
+    const directoryPath = path.join(__dirname, 'resources'); //read all files from resources dir
+    let allData = [];
 
-//Obtención de todos los personajes, donde req es la variable dinámica introducida por HTTP y res es la respuesta que se devuelve
-app.get('/mythapi/all', (req, res) => {
-    //Obtención del archivo JSON
-    const data = getData();
-    //Envío
+    fs.readdirSync(directoryPath).forEach(file => {
+        //if the file is a .json file
+        if (path.extname(file) === '.json') {
+
+            //parse it into an array
+            const filePath = path.join(directoryPath, file);
+            const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+            allData = allData.concat(data);
+        }
+    });
+
+    return allData;
+};
+
+
+//----------------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------------------
+
+
+//Get all the chars from the diferent JSON dinamically
+app.get('/:archive/all', (req, res) => {
+    //Get the JSON using the archive value
+    const archive = req.params.archive;
+
+    const data = getData(archive);
     res.json(data);
 });
 
-//Buscar un personaje por id
-app.get('/mythapi/id/:id', (req, res) => {
-    //Obtenemos el JSON completo
-    const data = getData();
-    //Buscamos en el array donde en cada personaje (c) se va a usar su id y va a ser comparada por el parámetro de id de la ruta
+
+//Search by archive and ID
+app.get('/:archive/id/:id', (req, res) => {
+    const archive = req.params.archive;
+    const data = getData(archive);
     const character = data.find(c => c.id === parseInt(req.params.id));
 
-    //Si no se encontrase un personaje, se manda una respuesta con status de error 404 y el mensaje de que no se ha encontrado dicho personaje
-    if (!character) return res.status(404).send('Personaje no encontrado');
-    //En caso de que si se encontrase, se envía el personaje en la respuesta
-    else res.send(character);
-});
-
-//Buscar un personaje por nombre
-app.get('/mythapi/nombre/:nombre', (req, res) => {
-    const data = getData();
-    const character = data.find(c => c.nombre.toLowerCase() === req.params.nombre.toLowerCase());
-
-    if (!character) return res.status(404).send('Personaje no encontrado');
+    if (!character) return res.status(404).send('Not found');
     res.send(character);
 });
 
+//Search by archive and name
+app.get('/:archive/name/:name', (req, res) => {
+    const archive = req.params.archive;
+    const data = getData(archive);
 
+    const character = data.find(c => c.name.toLowerCase() === req.params.name.toLowerCase());
 
+    if (!character) return res.status(404).send('Not found');
+    res.send(character);
+});
 
+app.get('/search/:name', (req, res) => {
+    //get the name to search from URL
+    const name = req.params.name.toLowerCase();
+    //Get all the objects from all the JSONs using the function, receiving them as an array
+    const allData = getAllData();
+
+    //find into the array using the name param
+    const character = allData.find(c => c.name.toLowerCase() === name);
+
+    //if exits return it, if not return an error
+    if (character) {
+        res.json(character);
+    } else {
+        res.status(404).json({ error: "Not found" });
+    }
+})
 
 const port = process.env.PORT || 10000;
 app.listen(port, () => console.log(`Servidor corriendo en el puerto ${port}`));
